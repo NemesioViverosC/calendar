@@ -8,7 +8,7 @@
     </head>
     <body>
        
-        <form action="output.jsp" method="POST">
+        <form action="month.jsp" method="POST">
             Which month do you want to see?
             <%@ include file="WEB-INF/jspf/banner.jspf"   %>
             <select name="month">
